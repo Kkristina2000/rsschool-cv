@@ -1,9 +1,9 @@
-1. ### ** Korchik Kristina ** ###
+1. ### ** Korchik Kristina **
 2. **Contacts:**
-* [**VK:**](https://vk.com/k.krisssstina);
-* [**Email:**](k-korchik@outlook.com);
+* [**VK**](https://vk.com/k.krisssstina)\
+* [**Email**](k-korchik@outlook.com)\
 * **Phone number:** +375292520148.
-3. **About myself**
+3. **About myself:**
  My name is ** Korchik Kristina **. I come from Belarus and I live in Minsk.\
  I'm 20 years old and at the moment I'm a student of BSUIR.\
  My goals:successfully complete the RS School and get a job.
@@ -22,9 +22,10 @@
 <\ul>
 ```
 6. **Experience:**
-7. **Education:**
+7. **Education:**\
 I finished school in 2018.\
 Now I am a student of Belarusian State University of Informatics and Radioelectronics.
-8. **English language:**A2
+8. **English language:**
+A2
 
 
