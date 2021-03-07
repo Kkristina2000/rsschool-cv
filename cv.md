@@ -15,13 +15,11 @@
 * Java.
 5. **Code examples:**
 ```
-<ul>
- <li>Bread<\li>
- <li>Milk<\li>
- <li>Meat<\li>
-<\ul>
+let a=5;
+let b=5;
+console.log(a+b);
 ```
-6. **Experience:**
+6. **Experience:**\
 7. **Education:**\
 I finished school in 2018.\
 Now I am a student of Belarusian State University of Informatics and Radioelectronics.
