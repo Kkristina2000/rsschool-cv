@@ -1,7 +1,7 @@
 1. **Korchik Kristina**
 2. **Contacts:**
 * **VK** [https://vk.com/k.krisssstina](https://vk.com/k.krisssstina);
-* **Email**[k-korchik@outlook.com](k-korchik@outlook.com);
+* **Email** [k-korchik@outlook.com](k-korchik@outlook.com);
 * **Phone number:** +375292520148.
 3. **About myself:**\
  My name is ** Korchik Kristina **. I come from Belarus and I live in Minsk.\
