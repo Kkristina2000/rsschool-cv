@@ -6,13 +6,12 @@
 3. **About myself:**\
  My name is Korchik Kristina. I come from Belarus and I live in Minsk.\
  I'm 20 years old and at the moment I'm a student of BSUIR.\
- My goals: successfully complete the RS School and get a job.
 4. **Skills:** 
 * С++;
 * CSS;
 * HTML;
 * JavaScript;
-* Java.
+* PHP.
 5. **Code examples:**
 ```
 let a=5;
